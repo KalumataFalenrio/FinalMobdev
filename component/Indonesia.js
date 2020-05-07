@@ -99,32 +99,35 @@ const styles = StyleSheet.create({
   },
 
   box1:{
-    width:170,
+    width:200,
     marginBottom:7,
     height:20
   },
   box2:{
-    width: 75,
+    width: 65,
     height: 20,
     alignSelf: 'center',
     marginLeft: 3,
     marginBottom:7,
+    borderRadius: 15,
     backgroundColor:'yellow'
   },
   box3:{
-    width:75,
+    width:65,
     height:20,
     alignSelf: 'center',
-    marginLeft:7,
+    marginLeft:3,
     marginBottom:7,
+    borderRadius: 15,
     backgroundColor:'lime'
   },
   box4:{
-    width:80,
+    width:65,
     height:20,
     alignSelf: 'center',
-    marginLeft:7,
+    marginLeft:3,
     marginBottom:7,
+    borderRadius: 15,
     backgroundColor:'red'
   },
 

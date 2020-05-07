@@ -50,21 +50,24 @@ const styles = StyleSheet.create({
     box1: {
         width: 120,
         height: 100,
+        borderRadius: 15,
         backgroundColor: 'yellow'
     },
     box2: {
         width: 120,
         height: 100,
+        borderRadius: 15,
         backgroundColor: 'lime'
     },
     box3: {
         width: 120,
         height: 100,
+        borderRadius: 15,
         backgroundColor: 'red'
     },
     text: {
         color: 'black',
-        fontSize: 20,
+        fontSize: 19,
         fontWeight: 'bold'
     }
 })
